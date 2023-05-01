@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Cong Wu"
 description              : &description "personal description"
 url                      : https://tsongw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "tsongw/tsongw.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -186,7 +186,7 @@ collections:
     permalink: /:collection/:path/
   talks:
     output: false
-    permalink: /:collection/:path/
+    permalink: #/:collection/:path/
 
 
 # Defaults
@@ -242,7 +242,7 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
+      author_profile: false #true
       share: true
 
 # Sass/SCSS
