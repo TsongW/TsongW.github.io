@@ -6,9 +6,9 @@ author_profile: true
 ---
 {% include base_path %}
 
-### Intel, Austin, USA     
+### Research Assistant, Florida State University, Tallahassee   
 ----
-* Middleware Development Engineer (May 2022 - Present)
+* Middleware Development Engineer (Aug 2018 - Present)
     * I am working on distributed and parallel runtime library Intel-MPI for CPU and GPU enabled clusters. My responsibilities included implementing new features, optimizing performance, and solving issues.
 
 ### Argonne National Labratory, Lemont, USA     
