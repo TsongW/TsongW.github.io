@@ -15,8 +15,8 @@ author_profile: true
 ### QuickLog   
 ----
 * Developed an fast and secure logging system at the Linux kernel level, surpassing
-the state-of-the-art in adoptability, performance, and security.**USENIX Badges
-Award:**[Artifacts Available, Artifacts Functional, and Results Reproduced]
+the state-of-the-art in adoptability, performance, and security. **USENIX Badges
+Award**:[Artifacts Available, Artifacts Functional, and Results Reproduced]
 
 
 ### CryptMPI 
