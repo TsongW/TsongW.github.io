@@ -12,7 +12,7 @@ author_profile: true
 1. Faster Yet Safer: Logging System Via Fixed-Key Blockcipher   
    Viet Tung Hoang, **Cong Wu**, Xin Yuan (Names in Alphabetical Order)   
    USENIX Security 2022 ([USENIX 2022](https://www.usenix.org/conference/usenixsecurity22))   
-   **Distinguished Paper Award Winner**
+   **Best Paper Award Winner**
    Boston, MA, USA.  [[paper](https://www.usenix.org/system/files/sec22-hoang.pdf), [source code](https://github.com/TsongW/QuickLog)] 
 
 2. Encrypted All-reduce on Multi-core Clusters   
