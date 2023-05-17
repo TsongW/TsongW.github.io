@@ -6,22 +6,29 @@ author_profile: true
 ---
 {% include base_path %}
 
-### Research Assistant, Florida State University, Tallahassee   
+### Committing Security   
 ----
-* Cryptography, Cybersecurity (Aug 2018 - Present)
-    * Developing fast Committing Encryption schemes for the TLS protocol in https.
-    * Designed and implemented fast and secure logging systems for the Linux kernel.
-    * Provided rigorous security proofs for various symmetric-key schemes.
+* Developing robust and secure committing authenticated-encryption schemes that effectively counter the partition oracle attack. This attack poses a significant threat to widely adopted AEAD schemes such as AES-GCM, XSalsa20/Poly1305, and ChaCha20/Poly1305. Our goal is to set a new standard for the Transport Layer Security (TLS) protocol in https.
 
-* Cloud, MPICH/MVAPICH (Aug 2018 - Present)
-    * Designed and implemented encrypted parallel and distributed communication library for High-Performance Computing (HPC) in the cloud.
-    * Performance analysis and modeling of HPC workloads across multiple Docker containers that are deployed on multiple nodes.
 
-### Teaching Assistant, Florida State University, Tallahassee   
+
+### QuickLog   
 ----
-* Principles of Operating Systems COP 4610  (Aug 2022 - Dec 2022)
-    * Developed and led a project on Linux kernel module programming, taught advanced topics including system calls, concurrency, and kernel-level synchronization.
+* Developed an fast and secure logging system at the Linux kernel level, surpassing
+the state-of-the-art in adoptability, performance, and security.**USENIX Badges
+Award:**[Artifacts Available, Artifacts Functional, and Results Reproduced]
 
-    * Developed and led a project on file-system design and implementation, taught FAT32 concepts including cluster storage, FAT tables, and directories.
+
+### CryptMPI 
+----
+* Developed encrypted communication library for Cloud-based Parallel and Distributed
+computing architecture. Implemented C-based solution utilizing novel collective
+algorithms, pre-computation, multithreading, and pipelining techniques on
+top of MVAPICH and MPICH to accelerate encrypted communication.
+
+### EncryptedMPI
+----
+* Evaluated encryption performance with MPI communication using modern cryptographic
+libraries such as OpenSSL, and Libsodium.
 
 
