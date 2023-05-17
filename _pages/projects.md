@@ -28,7 +28,6 @@ top of MVAPICH and MPICH to accelerate encrypted communication.
 
 ### EncryptedMPI
 ----
-* Evaluated encryption performance with MPI communication using modern cryptographic
-libraries such as OpenSSL, and Libsodium.
+* Evaluated authenticated encryption with associated data (AEAD) performance with MPI communication using modern cryptographic libraries such as OpenSSL/BoringSSL, libsodium, and Crypto++.
 
 
